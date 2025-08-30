@@ -1,0 +1,47 @@
+# Python virtual environment
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# macOS Finder metadata
+.Spotlight-V100
+.Trashes
+*.swp
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Music library temporary files
+*.m3u
+*.m3u8
+*.wav
+*.ogg
+*.flac
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
