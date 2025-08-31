@@ -20,9 +20,13 @@ A Python-based music library analyzer that scans your music collection, analyzes
 
 ## Setup
 
-### 1. Create Python Virtual Environment
+### 1. Pull Repo and Create Python Virtual Environment
 
 ```bash
+
+#Change directory into the directory where you have pulled repository to for eg:
+cd music-tool # this fully depends on which folder you have pulled changes to
+
 # Create a new virtual environment
 python3 -m venv music-tool-env
 
